@@ -330,6 +330,8 @@
 				<string>DMAR</string>
 			</dict>
 		</array>
+		<key>HaltEnabler</key>
+		<true/>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
