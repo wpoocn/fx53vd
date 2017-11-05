@@ -54,6 +54,8 @@
 				<true/>
 				<key>FixShutdown_0004</key>
 				<true/>
+				<key>FixUSB_1000</key>
+				<true/>
 			</dict>
 			<key>Patches</key>
 			<array>
