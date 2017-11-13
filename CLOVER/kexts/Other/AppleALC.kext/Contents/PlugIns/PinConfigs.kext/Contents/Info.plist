@@ -496,6 +496,20 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>QiuChenly - Realtek ALC235 For ASUS FX53VD I7 7700HQ</string>
+					<key>CodecID</key>
+					<integer>283902517</integer>
+					<key>ConfigData</key>
+					<data>AbccQAG3HQABtx6gAbcfsAFHHBABRx0AAUceFwFHH5ABRwwCAZccMAGXHRABlx6BAZcfAAIXHGACFx0QAhceIQIXHwA=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>29</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Mirone - Realtek ALC236</string>
 					<key>CodecID</key>
 					<integer>283902518</integer>
@@ -631,6 +645,20 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>28</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>DalianSky - Realtek ALC256 (3246) for Dell 7000 Series</string>
+					<key>CodecID</key>
+					<integer>283902550</integer>
+					<key>ConfigData</key>
+					<data>ASccEAEnHQABJx6mAScfkAFHHCABRx0AAUceFwFHH5ABlxwwAZcdEAGXHosBlx8CAaccQAGnHRABpx6BAacfAgHXHPAB1x0RAdceEQHXH0ECFxxQAhcdEAIXHisCFx8CAUcMAgIXDAI=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>56</integer>
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
@@ -1663,6 +1691,20 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>29</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>Daliansky - Realtek ALC298 ThinkPad T470p</string>
+					<key>CodecID</key>
+					<integer>283902616</integer>
+					<key>ConfigData</key>
+					<data>ASccEAEnHQABJx6gAScfkAFHHCABRx0AAUceFwFHH5ABhxwwAYcdEAGHHoEBhx8CAhccQAIXHRACFx4hAhcfAgFHDAICFwwC</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>47</integer>
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
@@ -3209,10 +3251,10 @@
 					<integer>12</integer>
 				</dict>
 				<dict>
-					<key>CodecID</key>
-					<integer>287143429</integer>
 					<key>Codec</key>
 					<string>Custom IDT 92HD81B1X5 by Sergey_Galan for HP ProBook 4520s</string>
+					<key>CodecID</key>
+					<integer>287143429</integer>
 					<key>ConfigData</key>
 					<data>AKccIACnHRAApx6BAKcfAQC3HFAAtx0QALceIQC3HwEA1xwwANcdAQDXHhAA1x+QAOcc8ADnHQAA5x4AAOcfQAD3HPAA9x0AAPceAAD3H0ABBxzwAQcdAAEHHgABBx9AARccEAEXHQEBFx6gARcfkAH3HPAB9x0AAfceAAH3H0ACBxzwAgcdAAIHHgACBx9AAMcc8ADHHQAAxx4AAMcfQA==</data>
 					<key>FuncGroup</key>
@@ -3221,10 +3263,10 @@
 					<integer>20</integer>
 				</dict>
 				<dict>
-					<key>CodecID</key>
-					<integer>287143429</integer>
 					<key>Codec</key>
 					<string>Custom IDT 92HD81B1X5 by Sergey_Galan for HP DV6-6169er</string>
+					<key>CodecID</key>
+					<integer>287143429</integer>
 					<key>ConfigData</key>
 					<data>AMccIADHHRAAxx6BAMcfAQC3HFAAtx0QALceIQC3HwEA9xwwAPcdAQD3HhAA9x+QAOcc8ADnHQAA5x4AAOcfQADXHPAA1x0AANceAADXH0ABBxzwAQcdAAEHHgABBx9AARccEAEXHQEBFx6gARcfkAH3HPAB9x0AAfceAAH3H0ACBxzwAgcdAAIHHgACBx9AAKcc8ACnHQAApx4AAKcfQA==</data>
 					<key>FuncGroup</key>
