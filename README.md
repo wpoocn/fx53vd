@@ -22,10 +22,10 @@
 ## 本次更新修正了部分历史遗留问题.
 ## 如果发现部分硬件本应该工作却没有工作,请至华硕官网下载303版本BIOS固件进行BIOS更新.
 ## 华硕FX53VD 飞行堡垒个人交流群:
-## ![image](http://github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/blob/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/ASUS%26%2332%3BFX53VD%26%2332%3B%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+## ![image](https://github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/blob/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/ASUS%26%2332%3BFX53VD%26%2332%3B%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 ## 使用前提:请到sle下将以下几个文件改名:
-### ![image](http://github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/blob/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/tips.jpg)
+### ![image](https://github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/blob/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/tips.jpg)
 
 
 ## 工作的硬件:
