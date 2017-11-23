@@ -1,4 +1,4 @@
-# ASUS_FX53VD_10.13.1EFI
+# ASUS_FX53VD_10.13.1EFI (Kext驱动被破坏,无法正常驱动了,请参见下方的10.12.6)
 ## EFI & HotPatch Author:QiuChenly
 ### 机器类型：笔记本 i7 7700HQ
 ### 机器显卡：GTX1050 4GB + Intel HD 630 2GB
@@ -22,11 +22,10 @@
 ## 本次更新修正了部分历史遗留问题.
 ## 如果发现部分硬件本应该工作却没有工作,请至华硕官网下载303版本BIOS固件进行BIOS更新.
 ## 华硕FX53VD 飞行堡垒个人交流群:
-### ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/tips.jpg)
+### ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/QQ.jpg)
 
 ## 使用前提:请到sle下将以下几个文件改名:
-### ![image]
-(https://github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/raw/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/tips.jpg)
+### ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/tips.jpg)
 
 ## 工作的硬件:
 ### 显卡原生驱动HD630
