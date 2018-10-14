@@ -1,11 +1,68 @@
-# ASUS_FX53VD_GL553VD_ 10.12.6 几乎完美efi
-## EFI文件位置:macOS10.12_98%完美efi文件夹下
-## EFI & HotPatch Author:QiuChenly
-## 本次更新修正了部分历史遗留问题.
-## 如果发现部分硬件本应该工作却没有工作,请至华硕官网下载303版本BIOS固件进行BIOS更新.
-## 华硕FX53VD 飞行堡垒个人交流群:
-### ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/QQ.jpg)
+# ASUS_FX53VD_GL553VD_ 10.14.x
+### `Support Device: FX53VD/ZX53VD(i5-7300HQ/I7-7700HQ)`
+- (远景论坛流通的GL553VD笔记本电脑EFI均由本人早期EFI派生而来,第一作者：QiuChenly(秋城落叶))
+- (所有开源驱动非本人制作，我只是将这些驱动结合在一起打造一台基本完美的黑苹果工作站。感谢国外各个开源项目。)
+# EFI & HotPatch Author:QiuChenly
+>  **如果发现部分硬件本应该工作却没有工作,请至华硕官网下载307版本BIOS固件进行BIOS更新.** 
+>> **华硕FX53VD 飞行堡垒个人交流群（QQ群文件同步更新EFI）:** 
+>>> ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/QQ.jpg)
+# 最新 EFI V8.9.3 持续适配
+(最新 - 2018.10.14日更新，更新已转移到码云.)
+##
+## 本次更新：
+- SSDT/DSDT:
+1. 增加了SSDT-ELAN.aml，SSDT-RALS.aml，SSDT-ATK-KABY.aml，针对触控板和背光键盘做一定的基础工作，后期将修复键盘背光和fn键完整功能。
+- 其他驱动:
+1. lilu内核调试输出开启。
+2. 屏幕背光终于不用放到l/e下面了，可直接驱动16档亮度调节。支持10.12+
+3. 使用新fakesmc技术，修正了acpi电池不变电量的问题。
+4. 使用新CPUFriend.kext睿频技术，使cpu在800mhz-3.41Ghz下工作，有效节省电量。
+5. 触控板更新驱动，使用更灵活了
+6. 睡眠后可以在交流电的情况下使用usb键盘唤醒机器了
 
+# 8.9.2 更新：
+- 引导:
+1. 关闭了啰嗦模式并修正了启动卡logo问题
+- DSDT:
+1. 使用whatevergreen  新式显卡仿冒技术，注入硬件ID并提升2048MB显存。
+2. 使用2018款MacBookPro SMBIOS
+3. 修复15，2机型下的USB端口识别错误 并重新内建了所有USB3.0
+4. 注入了硬件声卡ID，不再使用HotPatch技术注入。
+
+# 8.9.1 更新：
+- 触控板:
+1. 移除导致内核崩溃的触控板扩展驱动
+- 其他驱动:
+1. 启用原生NVRAM用于内核日志调试
+2. Clover kernal升级到最新
+3. UEFI驱动：
+4. 增加了NvmExpressDxe-64.efi 与 AppleImageCodec-64.efi等。
+
+# 8.9 更新：
+- 触控板:
+1. 完全支持Macbook所有手势，(除通知中心与启动器) 
+- 其他驱动:
+1. 更新来自官方的最新驱动。
+
+# 历史遗留问题：
+1. 【已解决】无法完美变频7700HQ，最低频率只有1300Mhz，不影响使用。（此问题在8.9.3版本已修复）
+2. FN键部分功能无法使用。（如键盘背光无法调节）
+3. 第一次开机耳机只有背景音。
+
+# 已修复的问题：
+- 所有zx/fx系列飞行堡垒机器GL553主板的
+1. 睡眠唤醒正常（10.13.x，10.14.x）
+2. 所有系统支持i2c多指触控版手势
+3. applehda235声卡驱动内置mic和外放，支持耳机。
+4. usb3.0完全修复
+5. 可驱动94352z的wifi蓝牙。
+6. 电池管理
+7. 部分功能实现使用DSDT修复，独家适配GL553 100系主板
+### 
+
+
+## ============ 下面是以前的数据，不要使用 ==============
+## 本次更新修正了部分历史遗留问题。
 ## 使用前提:请到sle下将以下几个文件改名:
 ### ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/tips.png)
 
