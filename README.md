@@ -8,7 +8,8 @@
 >>> ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/QQ.jpg)
 # 最新 EFI V8.9.3 持续适配
 (最新 - 2018.10.14日更新，更新已转移到码云.)
-##
+
+
 ## 本次更新：
 - SSDT/DSDT:
 1. 增加了SSDT-ELAN.aml，SSDT-RALS.aml，SSDT-ATK-KABY.aml，针对触控板和背光键盘做一定的基础工作，后期将修复键盘背光和fn键完整功能。
