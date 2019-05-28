@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "Saved Property List Browsers"; ObjectID = "1"; */
+"1.title" = "存储的属性列表浏览器";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "10"; */
+"10.headerCell.title" = "名称";
+
+/* Class = "NSButtonCell"; title = "Rename"; ObjectID = "17"; */
+"17.title" = "重命名";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "19"; */
+"19.title" = "删除";
+
+/* Class = "NSButtonCell"; title = "Open"; ObjectID = "21"; */
+"21.title" = "打开";

@@ -1,0 +1,162 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Class name"; ObjectID = "16"; */
+"16.headerCell.title" = "类名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Localized name"; ObjectID = "17"; */
+"17.headerCell.title" = "本地化名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "20"; */
+"20.headerCell.title" = "类型";
+
+/* Class = "NSTabViewItem"; label = "String"; ObjectID = "26"; */
+"26.label" = "字串";
+
+/* Class = "NSTabViewItem"; label = "Array"; ObjectID = "27"; */
+"27.label" = "数组";
+
+/* Class = "NSTabViewItem"; label = "Dictionary"; ObjectID = "35"; */
+"35.label" = "字典";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "48"; */
+"48.headerCell.title" = "值";
+
+/* Class = "NSTableColumn"; headerCell.title = "Display Value"; ObjectID = "49"; */
+"49.headerCell.title" = "显示值";
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "53"; */
+"53.title" = "默认值：";
+
+/* Class = "NSTextFieldCell"; title = "Array children class:"; ObjectID = "63"; */
+"63.title" = "数组子类：";
+
+/* Class = "NSTextFieldCell"; title = "Placeholder:"; ObjectID = "67"; */
+"67.title" = "占位符：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Class"; ObjectID = "75"; */
+"75.headerCell.title" = "类";
+
+/* Class = "NSTextFieldCell"; title = "Default child class:"; ObjectID = "88"; */
+"88.title" = "默认子类：";
+
+/* Class = "NSTextFieldCell"; title = "Default key name:"; ObjectID = "96"; */
+"96.title" = "默认键名称：";
+
+/* Class = "NSTextFieldCell"; title = "Identifying key:"; ObjectID = "102"; */
+"102.title" = "识别键：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "110"; */
+"110.headerCell.title" = "键";
+
+/* Class = "NSTableColumn"; headerCell.title = "Localized String"; ObjectID = "111"; */
+"111.headerCell.title" = "本地化字串";
+
+/* Class = "NSTableColumn"; headerCell.title = "Class"; ObjectID = "114"; */
+"114.headerCell.title" = "种类";
+
+/* Class = "NSTableColumn"; headerCell.title = "Usage"; ObjectID = "119"; */
+"119.headerCell.title" = "用途";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "122"; */
+"122.title" = "默认";
+
+/* Class = "NSMenuItem"; title = "Required"; ObjectID = "123"; */
+"123.title" = "必需";
+
+/* Class = "NSMenuItem"; title = "Optional"; ObjectID = "124"; */
+"124.title" = "可选";
+
+/* Class = "NSMenuItem"; title = "Deprecated"; ObjectID = "125"; */
+"125.title" = "废除";
+
+/* Class = "NSTextFieldCell"; title = "Allowable Values:"; ObjectID = "187"; */
+"187.title" = "允许值：";
+
+/* Class = "NSMenuItem"; title = "Array"; ObjectID = "190"; */
+"190.title" = "数组";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "<none>"; ObjectID = "197"; */
+"197.ibShadowedIsNilPlaceholder" = "<无>";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "<none>"; ObjectID = "199"; */
+"199.ibShadowedIsNilPlaceholder" = "<无>";
+
+/* Class = "NSTabViewItem"; label = "Empty"; ObjectID = "210"; */
+"210.label" = "空白";
+
+/* Class = "NSTabViewItem"; label = "VariantDictionary"; ObjectID = "212"; */
+"212.label" = "VariantDictionary";
+
+/* Class = "NSMenuItem"; title = "Boolean"; ObjectID = "242"; */
+"242.title" = "布尔值";
+
+/* Class = "NSMenuItem"; title = "Data"; ObjectID = "243"; */
+"243.title" = "数据";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "244"; */
+"244.title" = "日期";
+
+/* Class = "NSMenuItem"; title = "Dictionary"; ObjectID = "245"; */
+"245.title" = "字典";
+
+/* Class = "NSMenuItem"; title = "Number"; ObjectID = "246"; */
+"246.title" = "数字";
+
+/* Class = "NSMenuItem"; title = "String"; ObjectID = "247"; */
+"247.title" = "字串";
+
+/* Class = "NSMenuItem"; title = "Variant Dictionary"; ObjectID = "248"; */
+"248.title" = "变体字典";
+
+/* Class = "NSTextFieldCell"; title = "Definition name:"; ObjectID = "265"; */
+"265.title" = "定义名称：";
+
+/* Class = "NSTextFieldCell"; title = "Definition identifier:"; ObjectID = "269"; */
+"269.title" = "定义标识符：";
+
+/* Class = "NSTextFieldCell"; title = "Default array entries:"; ObjectID = "342"; */
+"342.title" = "默认数组条目：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Variant"; ObjectID = "373"; */
+"373.headerCell.title" = "变体";
+
+/* Class = "NSTableColumn"; headerCell.title = "Dictionary Class"; ObjectID = "374"; */
+"374.headerCell.title" = "字典类";
+
+/* Class = "NSTableColumn"; headerCell.title = "Localized name"; ObjectID = "377"; */
+"377.headerCell.title" = "本地化名称";
+
+/* Class = "NSTextFieldCell"; title = "Variant key:"; ObjectID = "389"; */
+"389.title" = "变体键：";
+
+/* Class = "NSTextFieldCell"; title = "Variant value:"; ObjectID = "393"; */
+"393.title" = "变体值：";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "425"; */
+"425.ibShadowedIsNilPlaceholder" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Default Display Type:"; ObjectID = "430"; */
+"430.title" = "默认显示类型：";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "466"; */
+"466.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Plugin name:"; ObjectID = "472"; */
+"472.title" = "插件名称：";
+
+/* Class = "NSTextFieldCell"; title = "Plugin identifier:"; ObjectID = "476"; */
+"476.title" = "插件标识符：";
+
+/* Class = "NSTextFieldCell"; title = "Version:"; ObjectID = "480"; */
+"480.title" = "版本：";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "482"; */
+"482.title" = "确定";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "493"; */
+"493.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "497"; */
+"497.title" = "Box";

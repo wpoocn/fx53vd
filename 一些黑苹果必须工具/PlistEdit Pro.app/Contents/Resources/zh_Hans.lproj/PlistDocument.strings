@@ -1,0 +1,141 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "64"; */
+"64.title" = "ASCII";
+
+/* Class = "NSMenu"; title = "<<do not localize>>"; ObjectID = "65"; */
+"65.title" = "<<do not localize>>";
+
+/* Class = "NSMenuItem"; title = "Binary"; ObjectID = "66"; */
+"66.title" = "二进制";
+
+/* Class = "NSMenuItem"; title = "XML"; ObjectID = "67"; */
+"67.title" = "XML";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "84"; */
+"84.title" = "菜单";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "85"; */
+"85.title" = "拷贝";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "86"; */
+"86.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "87"; */
+"87.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "88"; */
+"88.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "93"; */
+"93.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Paste As Child"; ObjectID = "95"; */
+"95.title" = "粘贴为子节点";
+
+/* Class = "NSMenuItem"; title = "Sort Keys"; ObjectID = "97"; */
+"97.title" = "排序键";
+
+/* Class = "NSMenuItem"; title = "New Sibling"; ObjectID = "99"; */
+"99.title" = "新建同级节点";
+
+/* Class = "NSMenuItem"; title = "New Child"; ObjectID = "101"; */
+"101.title" = "新建子节点";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "124"; */
+"124.headerCell.title" = "键";
+
+/* Class = "NSTableColumn"; headerCell.title = "Class"; ObjectID = "125"; */
+"125.headerCell.title" = "类";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "126"; */
+"126.headerCell.title" = "值";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Automatically update the text whenever a change is made to the outline"; ObjectID = "135"; */
+"135.ibShadowedToolTip" = "对大纲做出更改时，自动更新文本";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Update the text to reflect the changes made to the outline"; ObjectID = "136"; */
+"136.ibShadowedToolTip" = "更新文本，以反映对大纲做出的更改";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Update the outline to reflect the changes made to the text"; ObjectID = "137"; */
+"137.ibShadowedToolTip" = "更新大纲，以反映对文本做出的更改";
+
+/* Class = "NSMenuItem"; title = "Sort Values"; ObjectID = "173"; */
+"173.title" = "排序值";
+
+/* Class = "NSWindow"; title = "Goto"; ObjectID = "177"; */
+"177.title" = "前往";
+
+/* Class = "NSMenuItem"; title = "Edit Value…"; ObjectID = "209"; */
+"209.title" = "编辑值…";
+
+/* Class = "NSMenuItem"; title = "View As"; ObjectID = "211"; */
+"211.title" = "显示为";
+
+/* Class = "NSMenu"; title = "View As"; ObjectID = "212"; */
+"212.title" = "显示为";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "213"; */
+"213.title" = "<<do not localize>>";
+
+/* Class = "NSMenuItem"; title = "Add Sibling Key"; ObjectID = "267"; */
+"267.title" = "添加同级键";
+
+/* Class = "NSMenu"; title = "Add Sibling Key"; ObjectID = "268"; */
+"268.title" = "添加同级键";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "269"; */
+"269.title" = "<<do not localize>>";
+
+/* Class = "NSMenuItem"; title = "Add Child Key"; ObjectID = "271"; */
+"271.title" = "添加子键";
+
+/* Class = "NSButtonCell"; title = "Automatically sync text"; ObjectID = "277"; */
+"277.title" = "自动同步文本";
+
+/* Class = "NSButtonCell"; title = "Sync text ↓"; ObjectID = "278"; */
+"278.title" = "同步文本 ↓";
+
+/* Class = "NSButtonCell"; title = "Sync outline ↑"; ObjectID = "279"; */
+"279.title" = "同步大纲 ↑";
+
+/* Class = "NSTextFieldCell"; title = "Goto Line #:"; ObjectID = "281"; */
+"281.title" = "转到行 #:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "283"; */
+"283.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "284"; */
+"284.title" = "取消";
+
+/* Class = "NSMenu"; title = "Add Child Key"; ObjectID = "303"; */
+"303.title" = "添加子键";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "304"; */
+"304.title" = "<<do not localize>>";
+
+/* Class = "NSMenuItem"; title = "Sort By Subkey"; ObjectID = "305"; */
+"305.title" = "按子键排序";
+
+/* Class = "NSMenu"; title = "Sort By Subkey"; ObjectID = "306"; */
+"306.title" = "按子键排序";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "307"; */
+"307.title" = "<<do not localize>>";
+
+/* Class = "NSMenuItem"; title = "View By Subkey"; ObjectID = "321"; */
+"321.title" = "按子键显示";
+
+/* Class = "NSMenu"; title = "View By Subkey"; ObjectID = "322"; */
+"322.title" = "按子键显示";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "323"; */
+"323.title" = "<<do not localize>>";
+
+/* Class = "NSMenuItem"; title = "Set To Default Value"; ObjectID = "326"; */
+"326.title" = "设为默认值";
+
+/* Class = "NSMenuItem"; title = "JSON"; ObjectID = "328"; */
+"328.title" = "JSON";

@@ -1,0 +1,180 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Filename"; ObjectID = "6"; */
+"6.headerCell.title" = "文件名";
+
+/* Class = "NSWindow"; title = "Property List Browser"; ObjectID = "8"; */
+"8.title" = "属性列表浏览器";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "9"; */
+"9.headerCell.title" = "应用程序";
+
+/* Class = "NSButtonCell"; title = "Filename"; ObjectID = "49"; */
+"49.title" = "文件名";
+
+/* Class = "NSButtonCell"; title = "Content"; ObjectID = "50"; */
+"50.title" = "内容";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "60"; */
+"60.title" = "窗口";
+
+/* Class = "NSBox"; title = "Search Scope"; ObjectID = "69"; */
+"69.title" = "搜索范围";
+
+/* Class = "NSMenuItem"; title = "Ends with"; ObjectID = "72"; */
+"72.title" = "结束为";
+
+/* Class = "NSMenuItem"; title = "Starts with"; ObjectID = "73"; */
+"73.title" = "开始为";
+
+/* Class = "NSMenuItem"; title = "Equals"; ObjectID = "74"; */
+"74.title" = "等于";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "77"; */
+"77.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Contains"; ObjectID = "78"; */
+"78.title" = "包含";
+
+/* Class = "NSBox"; title = "Content Find Options"; ObjectID = "81"; */
+"81.title" = "内容查找选项";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "100"; */
+"100.title" = "菜单";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "101"; */
+"101.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Reveal In Finder"; ObjectID = "102"; */
+"102.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Change Format"; ObjectID = "103"; */
+"103.title" = "更改格式";
+
+/* Class = "NSMenu"; title = "Change Format"; ObjectID = "104"; */
+"104.title" = "更改格式";
+
+/* Class = "NSMenuItem"; title = "Binary"; ObjectID = "105"; */
+"105.title" = "二进制";
+
+/* Class = "NSMenuItem"; title = "Launch Application"; ObjectID = "106"; */
+"106.title" = "启动应用程序";
+
+/* Class = "NSMenuItem"; title = "Reveal Application"; ObjectID = "107"; */
+"107.title" = "显示应用程序";
+
+/* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "109"; */
+"109.title" = "ASCII";
+
+/* Class = "NSMenuItem"; title = "XML"; ObjectID = "110"; */
+"110.title" = "XML";
+
+/* Class = "NSMenuItem"; title = "Move To Trash"; ObjectID = "115"; */
+"115.title" = "移到垃圾篓";
+
+/* Class = "NSMenuItem"; title = "Validate"; ObjectID = "118"; */
+"118.title" = "鉴定";
+
+/* Class = "NSMenuItem"; title = "Remove From List"; ObjectID = "120"; */
+"120.title" = "从列表移除";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "183"; */
+"183.title" = "窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Browser Items"; ObjectID = "190"; */
+"190.headerCell.title" = "浏览器项目";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "242"; */
+"242.title" = "文本";
+
+/* Class = "NSTextFieldCell"; title = "Search:"; ObjectID = "297"; */
+"297.title" = "搜索：";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "298"; */
+"298.title" = "选项...";
+
+/* Class = "NSButtonCell"; title = "Top level only"; ObjectID = "300"; */
+"300.title" = "仅顶层";
+
+/* Class = "NSButtonCell"; title = "Ignore case"; ObjectID = "301"; */
+"301.title" = "忽略大小写";
+
+/* Class = "NSButtonCell"; title = "Invert found file set"; ObjectID = "303"; */
+"303.title" = "逆序找到的文件集";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "304"; */
+"304.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Save As Default"; ObjectID = "305"; */
+"305.title" = "存储为默认";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "308"; */
+"308.title" = "完成";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "309"; */
+"309.title" = "Radio";
+
+/* Class = "NSMenuItem"; title = "JSON"; ObjectID = "320"; */
+"320.title" = "JSON";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "--"; ObjectID = "34A-tb-A00"; */
+"34A-tb-A00.ibShadowedIsNilPlaceholder" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "988-iz-ROL"; */
+"988-iz-ROL.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Values only"; ObjectID = "9mc-7w-4v9"; */
+"9mc-7w-4v9.title" = "仅值";
+
+/* Class = "NSTableColumn"; headerCell.title = "Shortcut"; ObjectID = "AoN-dO-HOI"; */
+"AoN-dO-HOI.headerCell.title" = "快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "I9Q-tS-xSt"; */
+"I9Q-tS-xSt.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "JJi-YG-RIM"; */
+"JJi-YG-RIM.headerCell.title" = "文件类型";
+
+/* Class = "NSMenuItem"; title = "Pop Up"; ObjectID = "LQt-ZE-uy5"; */
+"LQt-ZE-uy5.title" = "弹出";
+
+/* Class = "NSTableColumn"; headerCell.title = "Valid"; ObjectID = "MPR-58-Oq3"; */
+"MPR-58-Oq3.headerCell.title" = "有效";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QBr-6H-5Kc"; */
+"QBr-6H-5Kc.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Parent"; ObjectID = "Qeq-2O-nLn"; */
+"Qeq-2O-nLn.headerCell.title" = "上层";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Created"; ObjectID = "U5D-dd-MiJ"; */
+"U5D-dd-MiJ.headerCell.title" = "创建日期";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "W93-pG-32G"; */
+"W93-pG-32G.title" = "OtherViews";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "YkO-bW-wci"; */
+"YkO-bW-wci.headerCell.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Z63-VW-TO2"; */
+"Z63-VW-TO2.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Keys & Values"; ObjectID = "bec-Xu-I6t"; */
+"bec-Xu-I6t.title" = "键与值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fBX-zW-aMM"; */
+"fBX-zW-aMM.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "fcl-uy-N6K"; */
+"fcl-uy-N6K.headerCell.title" = "修改日期";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "l3Y-dG-XNX"; */
+"l3Y-dG-XNX.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Format"; ObjectID = "mzQ-qc-sFL"; */
+"mzQ-qc-sFL.headerCell.title" = "格式";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "n3s-g0-jbc"; */
+"n3s-g0-jbc.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Keys only"; ObjectID = "pTW-9j-5PV"; */
+"pTW-9j-5PV.title" = "仅键";

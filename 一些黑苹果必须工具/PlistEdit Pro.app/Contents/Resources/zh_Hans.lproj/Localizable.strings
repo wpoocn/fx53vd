@@ -1,0 +1,936 @@
+/* operation */
+"5" = "操作";
+
+/* The %@ operation was cancelled by the user */
+"6" = "%@ 操作已被用户取消";
+
+/* An error occurred (%ld): %@ (%@) */
+"7" = "发生了一个错误 (%ld)： %@ (%@)";
+
+/* An error occurred (%ld): %@ */
+"8" = "发生了一个错误 (%ld)： %@";
+
+/* An error occurred: %@ */
+"9" = "发生了一个错误： %@";
+
+/* Time interval date:  */
+"10" = "时间间隔日期： ";
+
+/* The string for a boolean must be either “YES” or “NO”. */
+"11" = "布尔值的字串必须为“是”或“否”两者之一。";
+
+/* Could not resolve alias file at %@ (%d) */
+"12" = "无法确定在 %@ (%d) 的替身文件";
+
+/* Could not resolve alias file at %@ because a reference to the file could not be created */
+"13" = "无法确定在 %@ 的替身文件因为无法创建对文件的引用";
+
+/* Path %@ contains circular alias/symlink references */
+"14" = "路径 %@ 包含了循环替身/符号引用";
+
+/* Alias could not be created */
+"15" = "替身无法创建";
+
+/* Could not create file system reference for path %@ */
+"16" = "无法创建对路径 %@ 创建文件系统引用";
+
+/* %lu key/value pairs */
+"17" = "%lu 个键/值对";
+
+/* %lu key/value pairs (%@ = %@) */
+"18" = "%lu 个键/值对 (%@ = %@)";
+
+/* Root */
+"19" = "根";
+
+/* Key already exists */
+"20" = "键已存在";
+
+/* There is already an object for the key “%@” in this dictionary.  Do you want to replace this object with the one whose key you are changing? */
+"21" = "此字典中对于键 “%@” 已存在一个对象。您想将此对象替换成您正在更改的键所属对象吗？";
+
+/* Replace */
+"22" = "替换";
+
+/* Cancel */
+"23" = "取消";
+
+/* Editing %lu values */
+"24" = "正在编辑 %lu 个值";
+
+/* Editing key %@ */
+"25" = "正在编辑键 %@";
+
+/* Editing item %ld */
+"26" = "正在编辑项目 %ld";
+
+/* The entered text is not valid: %@ */
+"27" = "输入的文本无效： %@";
+
+/* Invalid hexadecimal data for data object */
+"28" = "用于数据对象的是无效的十六进制数据";
+
+/* %lu bytes:  */
+"29" = "%lu 字节： ";
+
+/* ? */
+"30" = "?";
+
+/* Y */
+"31" = "Y";
+
+/* N */
+"32" = "N";
+
+/* Favorites */
+"33" = "收藏";
+
+/* Hex (big-endian):  */
+"34" = "十六进制 (大端字节序)： ";
+
+/* Hex (little-endian):  */
+"35" = "十六进制 (小端字节序)： ";
+
+/* None */
+"36" = "无";
+
+/* No file exists at the path “%@” */
+"37" = "路径 “%@” 不存在任何文件";
+
+/* Illegal extra characters */
+"38" = "非法额外字符";
+
+/* Illegal milliseconds value */
+"39" = "非法毫秒数值";
+
+/* Value %d too large for %@ component */
+"40" = "值 %d 对于 %@ 注释过大";
+
+/* Value %d too small for %@ component */
+"41" = "值 %d 对于 %@ 注释过小";
+
+/* Illegal characters in %@ component */
+"42" = "在 %@ 注释中有非法字符";
+
+/* Invalid value for %@ component */
+"43" = "在 %@ 组件中为无效值";
+
+/* The contents of the file at %@ are not an NSDictionary */
+"44" = "在 %@ 的文件内容不是 NSDictionary";
+
+/* Could not create XML for dictionary: %@ */
+"45" = "无法为字典创建 XML： %@";
+
+/* Selected Definition */
+"46" = "所选定义";
+
+/* Untitled Definition */
+"47" = "未命名定义";
+
+/* Storage Size:  */
+"48" = "储存大小： ";
+
+/* Could not create plist document for text */
+"49" = "无法为文本创建 plist 文稿";
+
+/* Could not open property list text: no string present in selection */
+"50" = "无法打开属性列表文本：所选部分没有字串";
+
+/* Trial period expired */
+"51" = "试用期已结束";
+
+/* Your trial period for PlistEdit Pro has expired. You will still be able to open plist files, but you will not be able to save any changes. Purchasing a license will remove this limitation and help support the development of this software */
+"52" = "您的 PlistEdit Pro 试用期已结束。您仍然能够打开编辑文件，但您无法保存任何更改。购买许可证将移除此限制，并帮助支持本软件的开发。";
+
+/* Purchase */
+"53" = "购买";
+
+/* Thank you for registering PlistEdit Pro! */
+"56" = "感谢您注册 PlistEdit Pro！";
+
+/* Please take the time to register PlistEdit Pro */
+"57" = "请花点时间注册 PlistEdit Pro";
+
+/* Invalid Registration */
+"58" = "无效的注册信息";
+
+/* The name/serial number combination you have entered is not valid.  Please check both the serial number and your name to ensure they exactly match your registration information and try again. */
+"59" = "您输入的名称/序列号组合是无效的。请确认序列号和名称与您的注册信息一致，然后重试。";
+
+/* Thank you for registering PlistEdit Pro! */
+"60" = "感谢您注册 PlistEdit Pro！";
+
+/* Please take the time to register PlistEdit Pro */
+"61" = "请花点时间注册 PlistEdit Pro";
+
+/* Install */
+"62" = "安装";
+
+/* The installed command line tool is up to date. */
+"63" = "已安装的命令行工具是最新的。";
+
+/* OK */
+"64" = "确定";
+
+/* Xcode built-in definition */
+"65" = "Xcode 内置定义";
+
+/* The definition file “%@” is a built-in file installed by Xcode.  Any edits you make to this file will be lost the next time you upgrade your Xcode installation.  It is recommended that you instead edit a separate copy of the definition that will override Xcode's built-in copy, and will not be lost during upgrades. */
+"66" = "定义文件 “%@” 是 Xcode 安装的内置文件。下次您升级安装 Xcode 时，您对此文件所作任何编辑都会丢失。推荐您编辑该定义的一个独立副本，而不是覆盖 Xcode 的内置文件，这样不会在升级时丢失。";
+
+/* Edit a copy */
+"67" = "编辑副本";
+
+/* Edit original */
+"68" = "编辑原身";
+
+/* Cancel */
+"69" = "取消";
+
+/* PlistEdit Pro built-in definition */
+"70" = "PlistEdit Pro 内置定义";
+
+/* The definition file “%@” is one of PlistEdit Pro's built-in definition files.  Any edits you make to this file will be lost the next time you update PlistEdit Pro.  It is recommended that you instead edit a separate copy of the definition that will override PlistEdit Pro's built-in copy, and will not be lost during upgrades. */
+"71" = "定义文件 “%@” 是 PlistEdit Pro 的内置定义文件之一。下次您升级安装 PlistEdit Pro 时，您对此文件所作任何编辑都会丢失。推荐您编辑该定义的一个独立副本，而不是覆盖 PlistEdit Pro 的内置文件，这样不会在升级时丢失。";
+
+/* Edit a copy */
+"72" = "编辑副本";
+
+/* Edit original */
+"73" = "编辑原身";
+
+/* Cancel */
+"74" = "取消";
+
+/* Relaunch required */
+"75" = "需要重新开启";
+
+/* Changing this setting requires quitting and relaunching PlistEdit Pro. */
+"76" = "更改的设置需要在退出并重启 PlistEdit Pro 后生效。";
+
+/* Relaunch */
+"77" = "重启";
+
+/* Later */
+"78" = "稍后";
+
+/* Unable to read sandboxed prefs for domain %@ (%d) */
+"79" = "无法读取域 %@ (%d) 的沙盒化偏好设置";
+
+/* Unable to read sandboxed prefs for domain %@ (%d) */
+"80" = "无法为域 %@ (%d) 读取沙盒化偏好设置";
+
+/* No saved browsers */
+"81" = "无已存储浏览器";
+
+/* Delete Browser */
+"82" = "删除浏览器";
+
+/* Are you sure you want to delete the browser configuration “%@”?  This operation cannot be undone. */
+"83" = "您确定要删除浏览器配置 “%@” 吗？这个操作不能还原。";
+
+/* Delete */
+"84" = "删除";
+
+/* Cancel */
+"85" = "取消";
+
+/* Install */
+"86" = "安装";
+
+/* Would you like to install the %@ command line tool in %@?\n\nIf you decline to install now, you can install later from the preferences window. */
+"87" = "您想安装 %@ 命令行工具吗？\n\n如果您拒绝现在安装，可以稍后在偏好设置窗口中安装。";
+
+/* Install */
+"88" = "安装";
+
+/* Cancel */
+"89" = "取消";
+
+/* Could not execute authorized tool (%d) */
+"90" = "无法执行授权工具 (%d)";
+
+/* Alias */
+"91" = "替身";
+
+/* Could not create alias data */
+"92" = "无法创建替身数据";
+
+/* %@ (%ld) */
+"93" = "%@ (%ld)";
+
+/* No file exists at the path “%@” */
+"94" = "路径 “%@” 不存在任何文件";
+
+/* No path could be determined from the alias record */
+"95" = "从此替身记录无法确定路径";
+
+/* Bookmark */
+"96" = "书签";
+
+/* Replace All completed */
+"97" = "替换全部完成";
+
+/* No occurrences of “%@” were found */
+"98" = "找不到 “%@” 的匹配项";
+
+/* 1 occurrence of “%@” was replaced with “%@” */
+"99" = "1 个出现 “%@” 的位置被替换成 “%@”";
+
+/* %lu occurrences of “%@” were replaced with “%@” */
+"100" = "%lu 个出现 “%@” 的位置被替换成 “%@”";
+
+/* OK */
+"101" = "确定";
+
+/* Untitled Definition */
+"102" = "未命名定义";
+
+/* XML */
+"103" = "XML";
+
+/* ASCII */
+"104" = "ASCII";
+
+/* Binary */
+"105" = "二进制";
+
+/* JSON */
+"106" = "JSON";
+
+/* The file %@ could not be open because an error occurred while reading the file data (%d) */
+"107" = "文件 %@ 无法打开，因为在读取文件数据 (%d) 时发生了一个错误";
+
+/* Administrative privileges are required to open the file “%@” */
+"108" = "要求有管理员权限才能打开文件 “%@”";
+
+/* The file %@ could not be opened because an error occurred parsing the file.\n\nPlist parse error: %@\n\nJSON parse error: %@ */
+"109" = "文件 %@ 无法打开，因为在解析文件时发生了一个错误。\n\nPlist解析错误： %@\n\nJSON 解析错误： %@";
+
+/* Convert */
+"110" = "转换";
+
+/* New item */
+"111" = "新建项目";
+
+/* New item */
+"112" = "新建项目";
+
+/* Edit Key */
+"113" = "编辑键";
+
+/* Sort Keys */
+"114" = "排序键";
+
+/* Sort Values */
+"115" = "排序值";
+
+/* Sort By Subkey “%@” */
+"116" = "按子键 “%@” 排序";
+
+/* Move */
+"117" = "移动";
+
+/* Attempt to insert child plist that would create a cycle */
+"118" = "尝试插入会产生循环的子 plist";
+
+/* Attempt to insert child plist that would create a cycle */
+"119" = "尝试插入可能创建循环的子节点 plist";
+
+/* Cannot move a plist so that it contains itself */
+"120" = "不能移动包含其自身的 plist";
+
+/* Cannot move the root plist of a document */
+"121" = "不能移动文稿的根 plist";
+
+/* The plist does not have any children to sort */
+"122" = "该 plist 没有任何可排序的子节点";
+
+/* The directory %@ could not be read */
+"123" = "目录 %@ 无法读取";
+
+/* Source file does not exist */
+"124" = "源文件不存在";
+
+/* File already exists at destination */
+"125" = "文件已在目标位置存在";
+
+/* Cannot overwrite a folder with a file */
+"126" = "不能以文件覆盖文件夹";
+
+/* Destination folder does not exist */
+"127" = "目标文件夹不存在";
+
+/* Destination parent is not a folder */
+"128" = "目标上层位置不是文件夹";
+
+/* Unable to exchange data from temp file */
+"129" = "无法从临时文件交换数据";
+
+/* Unable to copy from %@ to %@ (%@) */
+"130" = "无法从 %@ 拷贝到 %@ (%@)";
+
+/* Unable to move from %@ to %@ (%@) */
+"131" = "无法从 %@ 移动到 %@ (%@)";
+
+/* Could not create directory at %@ */
+"132" = "无法在 %@ 创建目录";
+
+/* Could not link %@ to %@ (%@) */
+"133" = "无法链接 %@ 到 %@ (%@)";
+
+/* Unable to read extended attribute names for path “%@”. */
+"134" = "无法读取路径 “%@” 的扩展属性名称。";
+
+/* Could not retrieve extended attribute “%@” for path “%@”. */
+"135" = "无法取得扩展属性 “%@” (在路径 “%@”)。";
+
+/* Could not set extended attribute “%@” for path “%@”. */
+"136" = "无法设置扩展属性 “%@” (在路径 “%@”)。";
+
+/* Could not remove extended attribute “%@” for path “%@”. */
+"137" = "无法移除扩展属性 “%@” (在路径 “%@”)。";
+
+/* Could not change mod date of file at %@ */
+"138" = "无法更改 %@ 的文件的修改日期";
+
+/* Could not set creation date for file %@ */
+"139" = "无法设置文件 %@ 的创建日期";
+
+/* Edit Class */
+"140" = "编辑类";
+
+/* None */
+"141" = "无";
+
+/* Invalid Definition Element */
+"142" = "无效的定义元素";
+
+/* Definition elements must be of type “definition” (found “%@” instead). */
+"143" = "定义元素的类型必须为 “definition” (找到的是 “%@”)。";
+
+/* Invalid XML Root */
+"144" = "无效的 XML 根";
+
+/* The root element of a structure definition document must be of type “plugin” (found type “%@” instead). */
+"145" = "结构定义文稿的根元素必须为 “plugin” 类型 (找到的类型是 “%@”)。";
+
+/* Could not find plugin data file “%@.xcplugindata” in plugin bundle */
+"146" = "无法在插件捆绑包中查找插件数据文件 “%@.xcplugindata”";
+
+/* Favorites */
+"147" = "个人收藏";
+
+/* Add To Favorites */
+"148" = "添加到收藏";
+
+/* Organize Favorites… */
+"149" = "组织收藏…";
+
+/* Could not encode string as OSType */
+"150" = "不能编码字串为 OSType";
+
+/* OSType string must be exactly 4 characters long */
+"151" = "OSType 字串必须是精确的 4 个字符长度";
+
+/* OSType:  */
+"152" = "OSType： ";
+
+/* Show only prefs for known applications */
+"153" = "仅显示已知应用程序的偏好设置";
+
+/* Show system-wide preferences */
+"154" = "显示系统级的偏好设置";
+
+/* Filename/Application */
+"155" = "文件名/应用程序";
+
+/* Preference File Browser */
+"156" = "偏好设置文件浏览器";
+
+/* The application for the selected file is unknown */
+"157" = "所选文件的应用程序未知";
+
+/* Launch the application that owns the selected preference file */
+"158" = "启动所选偏好设置文件所属的应用程序";
+
+/* The application for the selected file is unknown */
+"159" = "所选文件的应用程序未知";
+
+/* Reveal the application that owns the selected preference file */
+"160" = "启动所选偏好设置文件所属的应用程序";
+
+/* HMS:  */
+"161" = "HMS： ";
+
+/* Definition */
+"162" = "定义";
+
+/* Definition */
+"163" = "定义";
+
+/* Change the plist definition used with this document */
+"164" = "使用此文稿更改 plist 定义";
+
+/* Format */
+"165" = "格式";
+
+/* Format */
+"166" = "格式";
+
+/* Change the storage format for the property list */
+"167" = "更改此属性列表的存储格式";
+
+/* View As */
+"168" = "显示为";
+
+/* View As */
+"169" = "显示为";
+
+/* View the selected object as a different data type */
+"170" = "以不同数据类型显示所选对象";
+
+/* No selection */
+"171" = "未选择";
+
+/* The file for the source path %@ is missing */
+"172" = "源路径 %@ 的文件丢失";
+
+/* Could not create file reference for destination path %@ */
+"173" = "无法创建对目标路径 %@ 创建文件引用";
+
+/* Could not start file copy operation (%d) */
+"174" = "无法启动文件拷贝操作 (%d)";
+
+/* Could not schedule file copy operation (%d) */
+"175" = "无法计划文件拷贝操作 (%d)";
+
+/* Could not create file operation object */
+"176" = "无法创建文件操作对象";
+
+/* An error occurred trying to set Finder info flags for the file %@ (%d) */
+"177" = "尝试为文件 %@ (%d) 设置 Finder 简介标志";
+
+/* Invalid definition element class */
+"178" = "无效的定义元素类";
+
+/* The element “%@” has an invalid class “%@”. */
+"179" = "元素 “%@” 具有无效的类 “%@”。";
+
+/* Invalid definition element class */
+"180" = "无效的定义元素类";
+
+/* The element “%@” has an invalid class “%@”. */
+"181" = "元素 “%@” 具有无效的类 “%@”。";
+
+/* Invalid XML element */
+"182" = "无效的 XML 元素";
+
+/* Allowable value “%@” cannot be parsed as type %@ */
+"183" = "允许值 “%@” 不能被解析为类型 %@";
+
+/* Invalid XML element */
+"184" = "无效的 XML 元素";
+
+/* “allowableValues” element for definition of “%@” can only contain “value” elements, found “%@” instead. */
+"185" = "“%@” 定义的 “allowableValues” 元素只能包含 “value” 元素，找到的是 “%@”。";
+
+/* New item */
+"186" = "新建项目";
+
+/* Invalid registration URL: no name present */
+"187" = "无效注册 URL：未显示名称";
+
+/* Invalid registration URL: no code present */
+"188" = "无效注册 URL：未显示代码";
+
+/* Invalid registration URL: registration code is not valid or does not match name. */
+"189" = "无效注册 URL：注册码无效，或不匹配名称。";
+
+/* Edit Registration */
+"190" = "编辑注册信息";
+
+/* Register */
+"191" = "注册";
+
+/* Single user license */
+"192" = "单名用户许可";
+
+/* %d user license */
+"193" = "%d 名用户许可";
+
+/* Continue */
+"194" = "继续";
+
+/* The string cannot be encoded as %@ */
+"195" = "字串不能编码为 %@";
+
+/* The data is not a valid %@ string */
+"196" = "数据不是有效的 %@ 字串";
+
+/* %@ String:  */
+"197" = "%@ 字串： ";
+
+/* %lu ordered objects */
+"198" = "%lu 个排序对象";
+
+/* Async Apple event returned error %d (%@) */
+"199" = "一个同步 Apple 事件返回了错误 %d (%@)";
+
+/* Apple event error %d */
+"200" = "Apple 事件错误 %d";
+
+/* Cut */
+"201" = "剪切";
+
+/* Paste */
+"202" = "粘贴";
+
+/* Paste */
+"203" = "粘贴";
+
+/* Duplicate */
+"204" = "复制";
+
+/* New Child */
+"205" = "新建子节点";
+
+/* The key “%@” is a required key for this dictionary. Are you sure you want to delete this object? */
+"206" = "键 “%@” 是此字典必须的键。您确定要删除此对象吗？";
+
+/* %lu of the keys you are about to delete are required keys for this dictionary. Are you sure you want to delete these objects? */
+"207" = "您准备删除的 %lu 个键是此字典必要的键。您确定要删除这些对象吗？";
+
+/* Required dictionary key */
+"208" = "必要的字典键";
+
+/* Delete */
+"209" = "删除";
+
+/* Cancel */
+"210" = "取消";
+
+/* Delete */
+"211" = "删除";
+
+/* Error */
+"212" = "错误";
+
+/* Drag */
+"213" = "拖移";
+
+/* Scanning for files... */
+"214" = "正在扫描文件...";
+
+/* Property List Browser */
+"215" = "属性列表浏览器";
+
+/* Property List Browser %@ %@ */
+"216" = "属性列表浏览器 %@ %@";
+
+/* Scanning for files... */
+"217" = "正在扫描文件...";
+
+/* Reveal the selected preference file in the Finder */
+"218" = "在 Finder 显示所选的偏好设置文件";
+
+/* Reveal the selected preference file in the Finder */
+"219" = "在 Finder 显示所选的偏好设置文件";
+
+/* The selected file cannot be revealed because it is not visible */
+"220" = "所选文件不能显示因为其不可见";
+
+/* Reveal the selected preference file in the Finder */
+"221" = "在 Finder 显示所选的偏好设置文件";
+
+/* Reveal the selected preference file in the Finder */
+"222" = "在 Finder 显示所选的偏好设置文件";
+
+/* The selected file cannot be revealed because it is not visible */
+"223" = "所选文件不能显示因为它不可见";
+
+/* Move To Trash */
+"224" = "移到垃圾篓";
+
+/* Are you sure you want to move the selected files to the trash? */
+"225" = "您确定要将所选的文件都移到废纸篓吗？";
+
+/* OK */
+"226" = "确定";
+
+/* Cancel */
+"227" = "取消";
+
+/* Confirm */
+"228" = "确认";
+
+/* Are you sure you want to open all %lu files? */
+"229" = "您确定要打开全部 %lu个文件吗？";
+
+/* OK */
+"230" = "确定";
+
+/* Cancel */
+"231" = "取消";
+
+/* Validation Succeeded */
+"232" = "鉴定成功";
+
+/* All the selected property list files are valid. */
+"233" = "所有选定的属性列表文件都有效。";
+
+/* Validation Failed */
+"234" = "鉴定失败";
+
+/* %lu of the selected property lists failed to validate */
+"235" = "%lu 个所选的属性列表鉴定失败";
+
+/* Untitled */
+"236" = "未命名";
+
+/* Enter a name for this browser configuration */
+"237" = "输入此浏览器配置的名称";
+
+/* Browser name already exists */
+"238" = "浏览器名称已存在";
+
+/* A saved browser named “%@” already exists.  Would you like to replace the saved browser with this one? */
+"239" = "已存在名为 “%@” 的已存储浏览器。您想将该已存储浏览器替换成这个吗？";
+
+/* Cancel */
+"240" = "取消";
+
+/* Replace */
+"241" = "替换";
+
+/* Incompatible Format */
+"242" = "不兼容的格式";
+
+/* %lu of the selected property lists have objects that are not compatible with the %@ format.  These objects must be converted to strings in order to change formats.  Would you like to perform the conversion? */
+"243" = "%lu 个所选的属性列表有不兼容 %@ 格式的对象。这些对象必须转换为字串以便更改格式。您想执行转换吗？";
+
+/* Convert */
+"244" = "转换";
+
+/* Cancel */
+"245" = "取消";
+
+/* Drag files and folders here to browse their contents */
+"246" = "拖动文件和文件夹到此处以浏览其内容";
+
+/* No files found whose name contains “%@” */
+"247" = "未找到名称包含 “%@” 的文件";
+
+/* No files found containing “%@” */
+"248" = "未找到包含 “%@” 的文件";
+
+/* Edit Value */
+"249" = "编辑值";
+
+/* Invalid value */
+"250" = "无效值";
+
+/* OK */
+"251" = "确定";
+
+/* OK */
+"253" = "确定";
+
+/* Thank you for purchasing %@!\n\nYour copy of %@ has been registered, and you now have full access to all the features of the program. You will receive a copy of your purchase receipt and registration information shortly via email for your records. */
+"254" = "感谢您购买 %@！\n\n您的 %@ 副本已经注册，您现在可完整访问程序的所有功能。您将立即通过电子邮件收到购买回执和注册信息的一份副本。";
+
+/* Fat Cat Software Store */
+"255" = "Fat Cat 软件商店";
+
+/* Loading %@… */
+"256" = "正在载入 %@…";
+
+/* Already registered */
+"257" = "已经注册";
+
+/* Your copy of %@ is already registered, so there is no need to purchase a license. */
+"258" = "您的 %@ 副本已经注册，因此不需要再购买许可证。";
+
+/* OK */
+"259" = "确定";
+
+/* Register */
+"260" = "注册";
+
+/* Cancel */
+"261" = "取消";
+
+/* Purchase Now */
+"262" = "立即购买";
+
+/* Unregistered */
+"263" = "未注册";
+
+/* %@ Click the “Purchase” button to purchase a license at our online store. If you have already purchased a license, click the “Register” button to enter your registration info. */
+"264" = "%@ 点按 “购买” 按钮在我们的在线商店购买一份许可证。如果您已经购买了许可证，点按 “注册” 按钮来输入您的注册信息。";
+
+/* Purchase */
+"265" = "购买";
+
+/* Conversion required */
+"266" = "需要转换";
+
+/* This property list has objects that cannot be stored in the chosen property list format%@.  These objects must be converted into strings in order to change formats.  Would you like to perform the conversion? */
+"267" = "此属性列表有不能储存为所选属性列表格式 %@ 的对象。这些对象必须转换为字串以便更改格式。您想执行转换吗？";
+
+/* Convert */
+"268" = "转换";
+
+/* Cancel */
+"269" = "取消";
+
+/* File content swap failed: %d */
+"270" = "文件内容交换失败： %d";
+
+/* Wait for swap process failed: %d */
+"271" = "等待交换处理失败： %d";
+
+/* Administrative privileges are required to save the file “%@” */
+"272" = "要求有管理员权限才能存储文件 “%@”";
+
+/* Error */
+"273" = "错误";
+
+/* There was an error reading the property list file (%@).\nWould you like to open the raw text of the file instead? */
+"274" = "读取属性列表文件 (%@) 时有错误。\n您想打开文件的原始文本作为替代吗？";
+
+/* Open */
+"275" = "打开";
+
+/* Cancel */
+"276" = "取消";
+
+/* Error */
+"277" = "错误";
+
+/* OK */
+"278" = "确定";
+
+/* File changed on disk */
+"279" = "在磁盘上的文件已更改";
+
+/* The contents of the file on disk have changed.  Do you want to revert to the version on disk? */
+"280" = "磁盘上的文件内容已更改。您想要复原磁盘上的版本吗？";
+
+/* Revert */
+"281" = "复原";
+
+/* Don't Revert */
+"282" = "不要复原";
+
+/* Conversion failed */
+"283" = "转换失败";
+
+/* The property list could not be converted to be compatible with the format “%@”. */
+"284" = "属性列表不能转换为兼容格式 “%@”。";
+
+/* Sync Text */
+"285" = "同步文本";
+
+/* Sync Outline */
+"286" = "同步大纲";
+
+/* Sync */
+"287" = "同步";
+
+/* text */
+"288" = "文本";
+
+/* Sync Text */
+"289" = "同步文本";
+
+/* outline */
+"290" = "大纲";
+
+/* Sync Outline */
+"291" = "同步大纲";
+
+/* Error */
+"292" = "错误";
+
+/* The %@ could not be synchronized because an error occurred: %@ */
+"293" = "%@ 无法同步，因为发生了一个错误： %@";
+
+/* Add to Favorites */
+"294" = "添加到收藏";
+
+/* Add %@ to Favorites */
+"295" = "添加 %@ 到收藏";
+
+/* Change Format */
+"296" = "更改格式";
+
+/* The edit mode cannot be changed because the property list cannot be displayed textually in the current format\n%@ */
+"297" = "编辑模式不能更改，因为属性列表不能在当前格式\n%@以文本显示";
+
+/* Unknown edit mode (%ld) */
+"298" = "未知编辑模式 (%ld)";
+
+/* The property list is in binary format and has no textual representation.  To see a textual representation, choose a different property list format using the Change Format submenu located in the Operations menu. */
+"299" = "属性列表为二进制格式且没有文本化显示。要查看文本化显示，使用操作菜单的更改格式子菜单来选取不同的属性列表格式。";
+
+/* The contents of the property list can't be represented in the necessary text encoding */
+"300" = "属性列表内容不能以必要的文本编码显示";
+
+/* UTF-8 */
+"301" = "UTF-8";
+
+/* ASCII */
+"302" = "ASCII";
+
+/* UTF-8 */
+"303" = "UTF-8";
+
+/* The current text cannot be converted into a property list because it is empty */
+"304" = "当前文本不能转换为属性列表，因为它是空的";
+
+/* The current text cannot be encoded in the necessary text encoding (%@) */
+"305" = "当前文本不能编码为必要的文本编码 (%@)";
+
+/* Unable to get current plist for unknown edit mode (%ld) */
+"306" = "无法为未知编辑模式 (%ld) 获取当前 plist";
+
+/* Unable to create a property list for the current data */
+"307" = "无法为当前数据创建属性列表";
+
+/* The property list could not be converted to be compatible with the new format (%@). */
+"308" = "属性列表无法转换为兼容新格式 (%@).";
+
+/* Trial period expired */
+"309" = "试用期已经结束";
+
+/* Your trial period for PlistEdit Pro has expired. Saving changes to files is disabled until this copy of PlistEdit Pro has been licensed. You can remove this limitation and help support development of PlistEdit Pro by clicking the “Purchase” button. */
+"310" = "您的 PlistEdit Pro 的试用已过期。无法保存对文件的更改，直到 PlistEdit Pro 副本得到授权许可。您可以移除限制并帮助支持 PlistEdit Pro 的发展，只需点按 “购买” 按钮。";
+
+/* Purchase */
+"311" = "购买";
+
+/* Update */
+"312" = "更新";
+
+/* Would you like to update the %@ command line tool in %@?\n\nIf you decline to update now, you can update later from the preferences window. */
+"313" = "您是否想更新 %@ 命令行工具？\n\n如果您现在不愿更新，您可以稍后从偏好设置窗口更新。";
+
+/* No value entered */
+"314" = "未输入值";
+
+/* Parse error */
+"315" = "解析错误";
+
+/* Default value “%@” cannot be parsed as type %@ */
+"321" = "默认值 “%@” 不能被解析为类型 %@";
+
+/* Invalid value */
+"336" = "无效值";
+
+/* Cannot write global prefs */
+"BWUserPreferences.cannotWriteGlobalPrefsError.description" = "无法写入全局参数";
+
+/* System protected preferences cannot be modified. */
+"BWUserPreferences.cannotWriteGlobalPrefsError.recoverySuggestion" = "无法修改系统保护的首选项。";
+

@@ -1,0 +1,24 @@
+
+/* Class = "NSMenuItem"; title = "Array"; ObjectID = "2Zr-1Q-gL6"; */
+"2Zr-1Q-gL6.title" = "数组";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "M8n-0z-HOn"; */
+"M8n-0z-HOn.title" = "日期";
+
+/* Class = "NSMenuItem"; title = "Data"; ObjectID = "V3q-bN-1Rr"; */
+"V3q-bN-1Rr.title" = "数据";
+
+/* Class = "NSMenuItem"; title = "Boolean"; ObjectID = "eKd-BG-uhx"; */
+"eKd-BG-uhx.title" = "布尔值";
+
+/* Class = "NSMenuItem"; title = "String"; ObjectID = "f7e-Od-UCf"; */
+"f7e-Od-UCf.title" = "字串";
+
+/* Class = "NSMenuItem"; title = "Dictionary"; ObjectID = "hEf-pI-QwW"; */
+"hEf-pI-QwW.title" = "字典";
+
+/* Class = "NSMenuItem"; title = "Number"; ObjectID = "oDa-IC-RJX"; */
+"oDa-IC-RJX.title" = "数字";
+
+/* Class = "NSMenuItem"; title = "Null"; ObjectID = "pAk-fb-aQa"; */
+"pAk-fb-aQa.title" = "无";
