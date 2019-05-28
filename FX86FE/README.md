@@ -45,7 +45,7 @@
 ```
 1. 上方提到的各种驱动和DSDT更新到最新.
 ```
-#### 要安装你 Hacintosh 上的“EFI V1”版本补丁，请进行以下操作：
+#### 要安装你 Hacintosh 上的“EFI”版本，请进行以下操作：
 1. 使用Clover Configurator.app挂载你的EFI分区.
 2. 将你的SMBIOS信息或整个EFI目录保存至其他地方备份.
 3. 将下载的EFI_FX86FE - V2.zip文件解压至根目录,保证文件夹名为"EFI".
