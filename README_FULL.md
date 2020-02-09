@@ -6,8 +6,8 @@
 >  **如果发现部分硬件本应该工作却没有工作,请至华硕官网下载307版本BIOS固件进行BIOS更新.** 
 >> **华硕FX53VD 飞行堡垒个人交流群（QQ群文件同步更新EFI）:** 
 >>> ![alt tag](https://raw.github.com/QiuChenly/ASUS_FX53VD_10.13.1EFI/master/macOS10.12_98%25%E5%AE%8C%E7%BE%8Eefi/QQ.jpg)
-# 最新 EFI V9.1
-# [Download](EFI - 9.1.zip)
+# 最新 EFI V10.1
+# [Download](EFI - V10.1.zip)
 (最新 - 2019.7.23日更新，更新已转移到中国科技大学校内公共托管服务器.)
 
 
