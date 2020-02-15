@@ -5,7 +5,8 @@
 ##  EFI & HotPatch Author:QiuChenly
 >  ~~如果发现部分硬件本应该工作却没有工作,请至华硕官网下载303版本BIOS固件进行BIOS更新.~~
 >> **华硕FX86FE 飞行堡垒交流群:** 
->>> ![QQ群](../macOS10.12_perfect_efi/QQ.jpg)
+>>> ![QQ群](/FX53VD_FX63V_ZX53V
+/macOS10.12_perfect_efi/QQ.jpg)
 # 最新 EFI V2
 (最新 - 2019.5.28日更新，更新已转移到中科大服务器.)
 

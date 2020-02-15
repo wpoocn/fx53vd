@@ -1,8 +1,8 @@
 # Hackintosh新用户,你好!
 ## 请选择本人维护的机器型号进入:
 ### 适用于以下机器型号:
-```kotlin
-fun Status(){
+```
+fun MaintainStatus(){
     val 项目作者 = "秋城落叶"
     val 更新日期 = "2020-02-15"
     val 适配状况 = "机型一览"
